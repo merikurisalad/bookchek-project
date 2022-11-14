@@ -1,0 +1,23 @@
+{
+    "current": [{
+        "author": "PI",
+        "title": "POO",
+        "quotes": []
+    }],
+    "books": [
+        {
+            "author": "Osamu Dazai",
+            "title": "No Longer Human",
+            "quotes": [
+                "Mine has been a life of much shame.",
+                "Now I have neither happiness nor unhappiness. Everything passes."
+            ]
+        },
+        {
+            "author": "PI",
+            "title": "POO",
+            "quotes": []
+        }
+    ],
+    "name": "Pleasure Reads"
+}

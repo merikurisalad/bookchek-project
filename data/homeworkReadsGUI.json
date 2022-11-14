@@ -1,0 +1,9 @@
+{
+    "current": [],
+    "books": [{
+        "author": "Charlotte Bronte",
+        "title": "Jane Eyre",
+        "quotes": ["I would always rather be happy than dignified."]
+    }],
+    "name": "Homework Reads"
+}

@@ -1,0 +1,33 @@
+{
+    "current": [
+        {
+            "author": "Potter",
+            "title": "Harry",
+            "quotes": [
+                "Ya wizard Harry",
+                "Shut up Malfoy"
+            ]
+        },
+        {
+            "author": "Mockingbird",
+            "title": "To Kill",
+            "quotes": []
+        }
+    ],
+    "books": [
+        {
+            "author": "Potter",
+            "title": "Harry",
+            "quotes": [
+                "Ya wizard Harry",
+                "Shut up Malfoy"
+            ]
+        },
+        {
+            "author": "Mockingbird",
+            "title": "To Kill",
+            "quotes": []
+        }
+    ],
+    "name": "Weekend Reads"
+}

@@ -1,0 +1,16 @@
+{
+    "current": [],
+    "books": [
+        {
+            "author": "Charlotte Bronte",
+            "title": "Jane Eyre",
+            "quotes": ["I would always rather be happy than dignified."]
+        },
+        {
+            "author": "Band",
+            "title": "Flamingo",
+            "quotes": ["Shrimp are rich"]
+        }
+    ],
+    "name": "Homework Reads"
+}

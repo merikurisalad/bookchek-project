@@ -1,0 +1,23 @@
+{
+    "current": [{
+        "author": "Osamu Dazai",
+        "title": "No Longer Human",
+        "quotes": []
+    }],
+    "books": [
+        {
+            "author": "Osamu Dazai",
+            "title": "No Longer Human",
+            "quotes": [
+                "Mine has been a life of much shame.",
+                "Now I have neither happiness nor unhappiness. Everything passes."
+            ]
+        },
+        {
+            "author": "Potter",
+            "title": "Harry",
+            "quotes": []
+        }
+    ],
+    "name": "Pleasure Reads"
+}

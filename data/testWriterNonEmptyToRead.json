@@ -1,0 +1,16 @@
+{
+    "current": [],
+    "books": [
+        {
+            "author": "Potter",
+            "title": "Harry",
+            "quotes": []
+        },
+        {
+            "author": "Mockingbird",
+            "title": "To Kill",
+            "quotes": []
+        }
+    ],
+    "name": "Weekend Reads"
+}
